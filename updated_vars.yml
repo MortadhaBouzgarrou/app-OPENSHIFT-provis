@@ -1,0 +1,9 @@
+
+# Updated vars.yml with renamed variables to avoid conflicts with reserved names
+vm_name: my-vm
+vm_namespace: my-namespace
+cloud_init_secret: cloud-init-secret
+vm_memory_requests: "2Gi"
+vm_cpu_requests: "2"
+vm_storage_requests: "10Gi"
+httpd_package: httpd
